@@ -1,0 +1,23 @@
+@font-face {
+  font-family: finalf;
+  src: url('./font/finalf.ttf');
+}
+
+h1 {
+  text-align: center;
+  size: 200px;
+  font-family: finalf;
+}
+
+div {
+  background-color: black;
+}
+div img {
+  width: 1200px;
+  text-align: center;
+}
+div img p {
+  text-align: center;
+  color: rgb(68, 140, 161);
+  font-size: 700px;
+}/*# sourceMappingURL=styles.css.map */
